@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="[https://im4.ezgif.com/tmp/ezgif-4-32e7694d96.gif]" width="200"/>
+  <img src="https://im4.ezgif.com/tmp/ezgif-4-32e7694d96.gif" width="100"/>
 </div>
 
 тумпаччка, тумпа, тумпий, 44ыйтумпаччка, гоша и гена - это всё я
