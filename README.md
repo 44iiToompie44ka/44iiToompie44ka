@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://cdn.discordapp.com/attachments/1137076151588765857/1168932672895201380/mp4.mp4?ex=65539062&is=65411b62&hm=f18b568ea20f7791492e9e7bc8103ce196b1c671547d2f6d7d58229ce7a04410&
+)" width="200"/>
 </div>
 
 тумпаччка, тумпа, тумпий, 44ыйтумпаччка, гоша и гена - это всё я
