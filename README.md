@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 тумпаччка, тумпа, тумпий, 44ыйтумпаччка, гоша и гена - это всё я
 ардуино, си шарп и скоро флаттер - тож я
 я:
