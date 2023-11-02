@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://tenor.com/bWKBR.gif" width="150"/> <- не я
+  <img src="https://media.tenor.com/v0iiMcNna4oAAAAC/capybara-capybara-hello.gif" width="150"/>
 </div>
 
 тумпаччка, тумпа, тумпий, 44ыйтумпаччка, гоша и гена - это всё я
