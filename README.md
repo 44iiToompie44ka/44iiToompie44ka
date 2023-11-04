@@ -2,9 +2,6 @@
   <img src="https://media.tenor.com/v0iiMcNna4oAAAAd/capybara-capybara-hello.gif" width="340"/>
 </div>
 
-
-            Мои сети
-
 <div id="header" align="left">
   <a href="https://t.me/zxcpipidori">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
@@ -19,7 +16,7 @@
 </div>
 
 <div id="header" align="left">
-    <img src="https://img.shields.io/badge/Gmail-ilya.toompie@gmail.com-white?style=for-the-badge&logo=Gmail&logoColor=red" alt="Gmail Badge"/> `ilya.toompie@gmail.com`
+    <img src="https://img.shields.io/badge/Gmail-ilya.toompie@gmail.com-white?style=for-the-badge&logo=Gmail&logoColor=red" alt="Gmail Badge"/>
 </div>
 
 
