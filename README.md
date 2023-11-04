@@ -3,7 +3,7 @@
 </div>
 
 
-<div id="header" align="right">
+<div id="header" align="left">
   <a href="https://t.me/zxcpipidori">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
@@ -14,6 +14,8 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+
 
 
 тумпаччка, тумпа, тумпий, 44ыйтумпаччка, гоша и гена - это всё я
