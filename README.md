@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://media.tenor.com/v0iiMcNna4oAAAAd/capybara-capybara-hello.gif" width="340"/>
 </div>
 тумпаччка, тумпа, тумпий, 44ыйтумпаччка, гоша и гена - это всё я
