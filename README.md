@@ -3,7 +3,7 @@
 </div>
 
 
-          `Мои сети`
+            Мои сети
 
 <div id="header" align="left">
   <a href="https://t.me/zxcpipidori">
@@ -19,7 +19,7 @@
 </div>
 
 <div id="header" align="left">
-    <img src="https://img.shields.io/badge/Gmail-ilya.toompie@gmail.com-white?style=for-the-badge&logo=Gmail&logoColor=red" alt="Gmail Badge"/> 
+    <img src="https://img.shields.io/badge/Gmail-ilya.toompie@gmail.com-white?style=for-the-badge&logo=Gmail&logoColor=red" alt="Gmail Badge"/> `ilya.toompie@gmail.com`
 </div>
 
 
