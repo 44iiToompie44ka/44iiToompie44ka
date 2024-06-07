@@ -1,45 +1,34 @@
-<div id="header" align="left">
+<div align="left">
   <img src="https://media.tenor.com/v0iiMcNna4oAAAAd/capybara-capybara-hello.gif" width="340"/>
 </div>
 
-<div id="header" align="left">
+<div align="left">
   <a href="https://t.me/zxcpipidori">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 
-
-
-  
   <a href="https://discord.gg/wH4Epq5C">
     <img src="https://img.shields.io/badge/Discord-44iitoomp44ka-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/> 
   </a>
 </div>
 
-<div id="header" align="left">
+<div align="left">
     <img src="https://img.shields.io/badge/Gmail-ilya.toompie@gmail.com-white?style=for-the-badge&logo=Gmail&logoColor=red" alt="Gmail Badge"/>
 </div>
 
+---
 
-тумпаччка, тумпа, тумпий, 44ыйтумпаччка, гоша и гена - это всё я
+### Hey, I'm toomp4!
 
+✌️ I go by many names: toomp44ka, toompie, toompie4, 44iiToomp44ka, and etc. - they're all me! 
+##### ```(4 means 'ch')```
 
-лучший сервер в мире: bekonmc.duckdns.org (1.18.2+) 
-
-
-ардуино, си шарп и скоро флаттер - тож я
-
-
+💻 I'm into Arduino, C#, Flutter, Server administrator!
 
 
-я:
- 
-  
-  тг: @zxcpipidori,
+### You can find me here:
 
+- 📱 **Telegram:** [@zxcpipidori](https://t.me/zxcpipidori)
+- 💬 **Discord:** [44iitoomp44ka](https://discord.gg/wH4Epq5C)
+- 📧 **Email:** [ilya.toompie@gmail.com](mailto:ilya.toompie@gmail.com)
 
-  
-  дс: 44iitoomp44ka
-
-
-  
-  пчт: ilya.toompie@gmail.com
