@@ -18,15 +18,15 @@
 
 ---
 
-### Hey, I'm toomp4!
+###Я Тумпий
+#Toomp4, toompie, 44iitoomp44ka, toompie44ka
 
-✌️ I go by many names: toomp44ka, toompie, toompie4, 44iiToomp44ka, and etc. - they're all me! 
-##### ```(4 means 'ch')```
+### Интересуюсь:
+# Arduino (Но в основном esp)
+# Flutter
+# Unity
 
-💻 I'm into Arduino, C#, Flutter, Server administrator!
-
-
-### You can find me here:
+### Обитаю тут:
 
 - 📱 **Telegram:** [@zxcpipidori](https://t.me/zxcpipidori)
 - 💬 **Discord:** [44iitoomp44ka](https://discord.gg/wH4Epq5C)
