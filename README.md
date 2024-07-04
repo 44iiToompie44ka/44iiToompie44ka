@@ -18,17 +18,15 @@
 
 ---
 
-###Я Тумпий
-#Toomp4, toompie, 44iitoomp44ka, toompie44ka
+### Hey, I'm toomp4!
 
-### Интересуюсь:
-# Arduino (Но в основном esp)
-# Flutter
-# Unity
+✌️ I go by many names: toomp44ka, toompie, toompie4, 44iiToomp44ka, and etc
 
-### Обитаю тут:
+💻 I'm into Arduino, C#, Flutter, Unity, Server administrator!
+
+
+### You can find me here:
 
 - 📱 **Telegram:** [@zxcpipidori](https://t.me/zxcpipidori)
 - 💬 **Discord:** [44iitoomp44ka](https://discord.gg/wH4Epq5C)
 - 📧 **Email:** [ilya.toompie@gmail.com](mailto:ilya.toompie@gmail.com)
-
