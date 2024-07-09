@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 
-  <a href="https://discord.gg/wH4Epq5C">
+  <a href="https://discord.gg/wH4Epq">
     <img src="https://img.shields.io/badge/Discord-44iitoomp44ka-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/> 
   </a>
 </div>
